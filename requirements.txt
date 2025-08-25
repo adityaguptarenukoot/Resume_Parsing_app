@@ -3,4 +3,5 @@ langchain
 langchain-google-genai
 python-dotenv
 PyPDF2
+langchain_community
 docx2txt
